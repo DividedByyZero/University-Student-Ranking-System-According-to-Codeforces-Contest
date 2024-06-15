@@ -28,14 +28,6 @@ To set up the University Student Ranking System, follow these steps:
     pip install -r requirements.txt
     ```
 
-3. **Configure the Environment**:
-    Create a `.env` file in the root directory and add your configuration details:
-    ```plaintext
-    FACEBOOK_GROUP_ID=your_facebook_group_id
-    FACEBOOK_ACCESS_TOKEN=your_facebook_access_token
-    GOOGLE_SHEET_ID=your_google_sheet_id
-    GOOGLE_CREDENTIALS_JSON=path_to_your_google_credentials_json
-    ```
 
 4. **Set Up Google Sheets API**:
     - Go to the Google Cloud Console.
