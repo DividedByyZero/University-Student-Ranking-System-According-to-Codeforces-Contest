@@ -48,9 +48,3 @@ To set up the University Student Ranking System, follow these steps:
 To add students to the ranking system:
 1. Update the Google Sheet with student names and their Codeforces handles.
 2. Ensure the sheet is properly formatted as per the application's requirements.
-
-### Fetching Contest Results
-
-The system automatically fetches contest results after each Codeforces contest. You can manually trigger this process if needed by running:
-```bash
-python fetch_results.py
