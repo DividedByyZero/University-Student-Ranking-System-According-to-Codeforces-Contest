@@ -40,9 +40,6 @@ To set up the University Student Ranking System, follow these steps:
     ```bash
     python main.py
     ```
-
-## Usage
-
 ### Adding Students
 
 To add students to the ranking system:
