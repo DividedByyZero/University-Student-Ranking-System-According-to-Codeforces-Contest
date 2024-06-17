@@ -1,4 +1,4 @@
-# University Student Ranking System According to Codeforces Contest
+![image](https://github.com/DividedByyZero/University-Student-Ranking-System-According-to-Codeforces-Contest/assets/104347823/4241aa5b-4cf3-4411-97a1-bb0eee028108)# University Student Ranking System According to Codeforces Contest
 
 ## Description
 
@@ -48,3 +48,6 @@ To set up the University Student Ranking System, follow these steps:
 To add students to the ranking system:
 1. Update the Google Sheet with student names and their Codeforces handles.
 2. Ensure the sheet is properly formatted as per the application's requirements.
+
+### Google Sheet Result and Messenger Announcement
+![Google Sheet](googlesheet.png)
